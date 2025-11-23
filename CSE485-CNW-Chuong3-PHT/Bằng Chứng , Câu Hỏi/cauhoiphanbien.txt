@@ -1,0 +1,1 @@
+Tại sao cần gọi session_start() ở mọi trang sử dụng SESSION?
