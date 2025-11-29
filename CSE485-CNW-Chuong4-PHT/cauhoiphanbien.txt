@@ -1,0 +1,1 @@
+Tại sao khi thao tác với cơ sở dữ liệu trong PHP phải dùng Prepared Statement (câu lệnh chuẩn bị)? Nếu thay vào đó dùng cách nối chuỗi trực tiếp trong câu SQL thì rủi ro gì có thể xảy ra?
