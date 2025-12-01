@@ -1,0 +1,1 @@
+Trong mô hình MVC bạn vừa làm, nếu hệ thống cần thêm chức năng XÓA hoặc SỬA sinh viên, thì bạn sẽ phải thay đổi ở những phần nào trong MVC và lý do vì sao?
