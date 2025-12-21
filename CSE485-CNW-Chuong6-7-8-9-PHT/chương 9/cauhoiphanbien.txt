@@ -1,0 +1,1 @@
+Vì sao Laravel yêu cầu sử dụng CSRF token trong các form POST và việc sử dụng cú pháp {{ }} trong Blade giúp ngăn chặn tấn công XSS như thế nào?

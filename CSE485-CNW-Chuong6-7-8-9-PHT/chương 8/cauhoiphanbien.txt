@@ -1,0 +1,1 @@
+Eloquent ORM mang lại những lợi ích gì so với việc viết câu lệnh SQL thuần trong quá trình thao tác với cơ sở dữ liệu?

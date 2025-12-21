@@ -1,0 +1,1 @@
+Vì sao Blade sử dụng cơ chế layout (@extends, @yield, @section) thay vì viết toàn bộ HTML cho từng trang riêng lẻ?

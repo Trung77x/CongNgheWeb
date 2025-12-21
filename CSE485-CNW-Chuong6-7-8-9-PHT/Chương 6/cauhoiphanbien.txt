@@ -1,0 +1,1 @@
+Tại sao Laravel tách việc định tuyến (Routing) ra khỏi Controller thay vì viết trực tiếp logic xử lý trong Controller theo URL như các ứng dụng PHP thuần? Việc tách này mang lại những lợi ích gì trong việc bảo trì, mở rộng và quản lý ứng dụng web?
